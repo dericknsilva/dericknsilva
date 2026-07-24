@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Double+struck&size=30&pause=1000&color=5700FF&background=FFFFFF00&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Derick+%F0%9F%98%BA" alt="Typing SVG" /></a>
 
 <!--
 **dericknsilva/dericknsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
