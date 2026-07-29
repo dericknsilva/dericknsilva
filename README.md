@@ -2,7 +2,8 @@
 <p>Tenho 16 anos, estou cursando tecnico em desenvolvimento de sistema no SENAI Paulo Antonio Skaf</p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="35" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azul/azul-original.svg" />
+          
 
           
 
